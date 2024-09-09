@@ -106,9 +106,8 @@ body #nav-background > nav{
   gap: 10px;
 }
 
-body #nav-background > nav > a{
-  padding: 0;
-  margin: 0;
+body #nav-background > nav > a > span{
+  line-height: 0.85;
   align-self: center;
 }
 
