@@ -123,6 +123,11 @@ input, select{
   background: /* linear-gradient(#7496a3, #98c0bd); */ #e0ece7;
   width: 100%;
   font-size: 2em;
+  outline: none;
+}
+
+input:focus, select:focus{
+  border: 2px solid var(--btn-color);
 }
 
 input:active{
