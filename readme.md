@@ -10,7 +10,7 @@ Index is the main feed page, landing and signup will lead back to index through 
 
 ## Requirements
 
-HTML Requirements  
+HTML Requirements  [✅]
 
 * Have at least three pages.
 * Keep the grid system consistent between pages as much as possible.
@@ -24,7 +24,7 @@ HTML Requirements
   * GIFs.
   * (See resource links above for some free content of each of these types.)
 
-CSS Requirements
+CSS Requirements [✅]
 
 * Make use of inline, internal, and external styling. (ex and inline in index, internal in landing)
 * Use five different CSS selectors.
