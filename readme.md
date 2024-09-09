@@ -1,5 +1,7 @@
 # Per Scholas SBA - 307 
 
+[Full Demo Here](https://jordles.github.io/Per-Scholas-SBA-307/)
+
 ## Progress
 
 Struggled with a color theme. I was going for a plant theme. I wasn't sure about the gradients, it made it look very... 'tacky'. Most modern apps seem more slick and minimalistic, so i opted for less colors in general. I have only created a feed, login, and sign up page. Other functionalities are entirely missing at the moment. 
