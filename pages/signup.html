@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>landing</title>
+  <title>Sign Up</title>
   <link
     rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
@@ -17,12 +17,12 @@
   </a>
   <div class="wrapper">
     <div class="quote">
-      <span>GROW A</span>
+      <span>BEGINNING</span>
       <br>
-      <span>CONNECTION</span>
+      <span>STARTS HERE</span>
     </div>
     <form action="../index.html">
-      <h1>Sign In</h1>
+      <h1>Sign Up</h1>
       
       <label for="username">
         <input type="text" name="username" id="username" placeholder="username" required>
@@ -31,10 +31,20 @@
       <label for="password">
         <input type="password" name="password" id="password" placeholder="password" required>
       </label>
-      <a href="" class="forgot">Forgot Password?</a>
-      <input type="submit" value="Login">
-  
-      <div class="signup">New to Root? <a href="./signup.html">Sign Up</a></div>
+
+      <label for="confirm-password">
+        <input type="password" name="password" id="confirm-password" placeholder="confirm password" required>
+      </label>
+      
+      <select placeholder = "How are you using Root?">
+        <option value="1" disabled selected hidden>How are you using Root?</option>
+        <option value="2">Making Friends</option>
+        <option value="3">Networking</option>
+        <option value="4">Having Fun</option>
+      </select>
+
+      <input type="submit" value="Sign Up">
+    
     </form>
   </div>
   
