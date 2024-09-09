@@ -39,7 +39,6 @@ CSS Requirements [✅]
 [Color Theme](https://coolors.co/visualizer/05668d-028090-00a896-02c39a-f0f3bd)  
 [Plant Gif](https://clipart-library.com/clipart/clip-transparent-plant-gif-4.htm)  
 [Ocean Wave](https://unsplash.com/photos/ocean-wave-at-beach-GyDktTa0Nmw)  
-[Plant Gif](https://clipart-library.com/clipart/clip-transparent-plant-gif-4.htm)  
 [Random Photo Generator](https://picsum.photos)  
 [Random Person Generator](https://thispersondoesnotexist.com/)  
 [Fonts and Icons](https://fonts.google.com/)
