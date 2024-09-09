@@ -1,5 +1,4 @@
 const textarea = document.querySelectorAll('.auto-resize');
-console.log(textarea);
 function autoResize(event){
   const textarea = event.target;
   textarea.style.height = 'auto';

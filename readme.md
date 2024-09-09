@@ -42,3 +42,4 @@ CSS Requirements
 [Plant Gif](https://clipart-library.com/clipart/clip-transparent-plant-gif-4.htm)  
 [Random Photo Generator](https://picsum.photos)  
 [Random Person Generator](https://thispersondoesnotexist.com/)  
+[Fonts and Icons](https://fonts.google.com/)
