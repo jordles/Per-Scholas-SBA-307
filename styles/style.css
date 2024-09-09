@@ -35,9 +35,9 @@ ul{
   padding: 0;
 }
 
-ul.circle{
+/* ul.circle{
   list-style-type: initial;
-}
+} */
 
 button{
   background: #028090;
@@ -211,12 +211,15 @@ input::placeholder{
   flex-direction: column;
 }
 
-#connections div span:first-of-type{
+table{
+  border-spacing: 10px;
+}
+#connections div span:first-of-type, #connections th{
   font-weight: bold;
   font-size: 1.25em;
 }
 
-#connections div span:last-of-type{
+#connections div span:last-of-type, #connections td{
   color: #9e9e9e;
 }
 
