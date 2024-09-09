@@ -6,7 +6,7 @@
 
 Struggled with a color theme. I was going for a plant theme. I wasn't sure about the gradients, it made it look very... 'tacky'. Most modern apps seem more slick and minimalistic, so i opted for less colors in general. I have only created a feed, login, and sign up page. Other functionalities are entirely missing at the moment. 
 
-Index is the main feed page, landing and signup will lead back to index through the logo or the submit form button. 
+Index is the main feed page, landing and signup will lead back to index through the logo or the submit form button. Clicking logo (top left) on index, will lead back to the login page.
 
 ## Requirements
 
